@@ -1,4 +1,4 @@
-from libs.pygad import selection, mutation, crossover
+from pygad import selection, mutation, crossover
 import time
 
 class GeneticAlgorithm:
